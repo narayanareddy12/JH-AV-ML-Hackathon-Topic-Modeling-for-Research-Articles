@@ -121,5 +121,5 @@ Whether article belongs to topic Quantitative Finance (1/0)
 
  
 
-Evaluation Metric:
+**Evaluation Metric:**
 Submissions are evaluated on micro F1 Score between the predicted and observed topics for each article in the test set
